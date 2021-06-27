@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-grubbs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Grubbs' test for outliers.",
   "license": "Apache-2.0",
   "author": {
