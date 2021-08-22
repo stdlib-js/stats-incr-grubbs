@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-grubbs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Grubbs' test for outliers.",
   "license": "Apache-2.0",
   "author": {
@@ -15,6 +15,8 @@
   ],
   "main": "./lib",
   "directories": {
+    "benchmark": "./benchmark",
+    "doc": "./docs",
     "example": "./examples",
     "lib": "./lib",
     "test": "./test"
