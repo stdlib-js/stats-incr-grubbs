@@ -20,7 +20,7 @@ limitations under the License.
 
 # incrgrubbs
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > [Grubbs' test][grubbs-test] for outliers.
 
@@ -259,6 +259,22 @@ Test Decision: Reject null in favor of alternative at 5% significance level
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/stats/incr/mgrubbs`][@stdlib/stats/incr/mgrubbs]</span><span class="delimiter">: </span><span class="description">moving Grubbs' test for outliers.</span>
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -302,8 +318,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-incr-grubbs/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-incr-grubbs?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/stats-incr-grubbs.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-incr-grubbs/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
@@ -319,6 +339,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@grubbs:1950a]: https://doi.org/10.1214/aoms/1177729885
 
 [@grubbs:1969a]: https://doi.org/10.1080/00401706.1969.10490657
+
+<!-- <related-links> -->
+
+[@stdlib/stats/incr/mgrubbs]: https://github.com/stdlib-js/stats-incr-mgrubbs
+
+<!-- </related-links> -->
 
 </section>
 
