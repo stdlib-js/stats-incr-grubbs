@@ -67,7 +67,7 @@
     "@stdlib/stats-incr-stdev": "^0.0.x",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
-    "tap-spec": "5.x.x"
+    "tap-min": "2.x.x"
   },
   "engines": {
     "node": ">=0.10.0",
