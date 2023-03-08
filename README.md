@@ -35,10 +35,14 @@ The [Grubbs' test][grubbs-test] statistic for a two-sided alternative hypothesis
 
 <!-- <equation class="equation" label="eq:grubbs_test_statistic" align="center" raw="G = \frac{\max_{i=0,\ldots,N-1} |Y_i - \bar{Y}|}{s}" alt="Grubbs' test statistic."> -->
 
-<div class="equation" align="center" data-raw-text="G = \frac{\max_{i=0,\ldots,N-1} |Y_i - \bar{Y}|}{s}" data-equation="eq:grubbs_test_statistic">
+```math
+G = \frac{\max_{i=0,\ldots,N-1} |Y_i - \bar{Y}|}{s}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="G = \frac{\max_{i=0,\ldots,N-1} |Y_i - \bar{Y}|}{s}" data-equation="eq:grubbs_test_statistic">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@d6af7da0801d2116a9507668d13ef7bf607fd275/lib/node_modules/@stdlib/stats/incr/grubbs/docs/img/equation_grubbs_test_statistic.svg" alt="Grubbs' test statistic.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -48,10 +52,14 @@ The [Grubbs' test][grubbs-test] statistic for the alternative hypothesis that th
 
 <!-- <equation class="equation" label="eq:grubbs_test_statistic_min" align="center" raw="G = \frac{\bar{Y} - Y_{\textrm{min}}}{s}" alt="Grubbs' test statistic for testing whether the minimum value is an outlier."> -->
 
-<div class="equation" align="center" data-raw-text="G = \frac{\bar{Y} - Y_{\textrm{min}}}{s}" data-equation="eq:grubbs_test_statistic_min">
+```math
+G = \frac{\bar{Y} - Y_{\textrm{min}}}{s}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="G = \frac{\bar{Y} - Y_{\textrm{min}}}{s}" data-equation="eq:grubbs_test_statistic_min">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@d6af7da0801d2116a9507668d13ef7bf607fd275/lib/node_modules/@stdlib/stats/incr/grubbs/docs/img/equation_grubbs_test_statistic_min.svg" alt="Grubbs' test statistic for testing whether the minimum value is an outlier.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -59,10 +67,14 @@ The [Grubbs' test][grubbs-test] statistic for the alternative hypothesis that th
 
 <!-- <equation class="equation" label="eq:grubbs_test_statistic_max" align="center" raw="G = \frac{Y_{\textrm{max}} - \bar{Y}}{s}" alt="Grubbs' test statistic for testing whether the maximum value is an outlier."> -->
 
-<div class="equation" align="center" data-raw-text="G = \frac{Y_{\textrm{max}} - \bar{Y}}{s}" data-equation="eq:grubbs_test_statistic_max">
+```math
+G = \frac{Y_{\textrm{max}} - \bar{Y}}{s}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="G = \frac{Y_{\textrm{max}} - \bar{Y}}{s}" data-equation="eq:grubbs_test_statistic_max">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@d6af7da0801d2116a9507668d13ef7bf607fd275/lib/node_modules/@stdlib/stats/incr/grubbs/docs/img/equation_grubbs_test_statistic_max.svg" alt="Grubbs' test statistic for testing whether the maximum value is an outlier.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -70,10 +82,14 @@ For a two-sided test, the hypothesis that a dataset does **not** contain an outl
 
 <!-- <equation class="equation" label="eq:grubbs_test_two_sided" align="center" raw="G > \frac{N-1}{\sqrt{N}} \sqrt{\frac{t^2_{\alpha/(2N),N-2}}{N - 2 + t^2_{\alpha/(2N),N-2}}}" alt="Two-sided Grubbs' test."> -->
 
-<div class="equation" align="center" data-raw-text="G > \frac{N-1}{\sqrt{N}} \sqrt{\frac{t^2_{\alpha/(2N),N-2}}{N - 2 + t^2_{\alpha/(2N),N-2}}}" data-equation="eq:grubbs_test_two_sided">
+```math
+G > \frac{N-1}{\sqrt{N}} \sqrt{\frac{t^2_{\alpha/(2N),N-2}}{N - 2 + t^2_{\alpha/(2N),N-2}}}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="G > \frac{N-1}{\sqrt{N}} \sqrt{\frac{t^2_{\alpha/(2N),N-2}}{N - 2 + t^2_{\alpha/(2N),N-2}}}" data-equation="eq:grubbs_test_two_sided">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@d6af7da0801d2116a9507668d13ef7bf607fd275/lib/node_modules/@stdlib/stats/incr/grubbs/docs/img/equation_grubbs_test_two_sided.svg" alt="Two-sided Grubbs' test.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -83,10 +99,14 @@ For a one-sided test, the hypothesis that a dataset does **not** contain an outl
 
 <!-- <equation class="equation" label="eq:grubbs_test_one_sided" align="center" raw="G > \frac{N-1}{\sqrt{N}} \sqrt{\frac{t^2_{\alpha/N,N-2}}{N - 2 + t^2_{\alpha/N,N-2}}}" alt="One-sided Grubbs' test."> -->
 
-<div class="equation" align="center" data-raw-text="G > \frac{N-1}{\sqrt{N}} \sqrt{\frac{t^2_{\alpha/N,N-2}}{N - 2 + t^2_{\alpha/N,N-2}}}" data-equation="eq:grubbs_test_one_sided">
+```math
+G > \frac{N-1}{\sqrt{N}} \sqrt{\frac{t^2_{\alpha/N,N-2}}{N - 2 + t^2_{\alpha/N,N-2}}}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="G > \frac{N-1}{\sqrt{N}} \sqrt{\frac{t^2_{\alpha/N,N-2}}{N - 2 + t^2_{\alpha/N,N-2}}}" data-equation="eq:grubbs_test_one_sided">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@d6af7da0801d2116a9507668d13ef7bf607fd275/lib/node_modules/@stdlib/stats/incr/grubbs/docs/img/equation_grubbs_test_one_sided.svg" alt="One-sided Grubbs' test.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -275,7 +295,7 @@ Test Decision: Reject null in favor of alternative at 5% significance level
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats/incr/mgrubbs`][@stdlib/stats/incr/mgrubbs]</span><span class="delimiter">: </span><span class="description">moving Grubbs' test for outliers.</span>
+-   <span class="package-name">[`@stdlib/stats-incr/mgrubbs`][@stdlib/stats/incr/mgrubbs]</span><span class="delimiter">: </span><span class="description">moving Grubbs' test for outliers.</span>
 
 </section>
 
@@ -334,7 +354,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
