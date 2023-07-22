@@ -52,7 +52,6 @@
     "@stdlib/stats-incr-meanstdev": "^0.0.7",
     "@stdlib/stats-incr-minmax": "^0.0.7",
     "@stdlib/string-format": "^0.0.3",
-    "@stdlib/utils-copy": "^0.0.7",
     "@stdlib/utils-define-read-only-accessor": "^0.0.8",
     "@stdlib/utils-define-read-only-property": "^0.0.8"
   },
