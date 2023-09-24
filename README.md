@@ -134,6 +134,11 @@ where `t` denotes the upper critical value of the _t_-distribution with `N-2` de
 ## Usage
 
 ```javascript
+import incrgrubbs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-grubbs@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-incr-grubbs/tags). For example,
+
+```javascript
 import incrgrubbs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-grubbs@v0.1.0-deno/mod.js';
 ```
 
@@ -227,7 +232,7 @@ The `print` method accepts the following options:
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import incrgrubbs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-grubbs@v0.1.0-deno/mod.js';
+import incrgrubbs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-grubbs@deno/mod.js';
 
 var data;
 var opts;
