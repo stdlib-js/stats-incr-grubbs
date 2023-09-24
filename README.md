@@ -134,7 +134,7 @@ where `t` denotes the upper critical value of the _t_-distribution with `N-2` de
 ## Usage
 
 ```javascript
-import incrgrubbs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-grubbs@esm/index.mjs';
+import incrgrubbs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-grubbs@v0.1.0-esm/index.mjs';
 ```
 
 #### incrgrubbs( \[options] )
@@ -232,7 +232,7 @@ The `print` method accepts the following options:
 <body>
 <script type="module">
 
-import incrgrubbs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-grubbs@esm/index.mjs';
+import incrgrubbs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-grubbs@v0.1.0-esm/index.mjs';
 
 var data;
 var opts;
