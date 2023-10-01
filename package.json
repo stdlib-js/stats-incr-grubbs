@@ -59,7 +59,7 @@
     "@stdlib/assert-is-function": "^0.1.0",
     "@stdlib/bench": "^0.1.0",
     "@stdlib/datasets-herndon-venus-semidiameters": "^0.1.0",
-    "@stdlib/random-base-normal": "^0.0.6",
+    "@stdlib/random-base-normal": "^0.1.0",
     "@stdlib/stats-incr-max": "^0.1.0",
     "@stdlib/stats-incr-mean": "^0.1.0",
     "@stdlib/stats-incr-min": "^0.1.0",
