@@ -47,7 +47,7 @@
     "@stdlib/assert-is-string": "^0.1.1",
     "@stdlib/math-base-special-max": "^0.1.1",
     "@stdlib/math-base-special-roundn": "^0.1.0",
-    "@stdlib/math-base-special-sqrt": "^0.1.0",
+    "@stdlib/math-base-special-sqrt": "^0.1.1",
     "@stdlib/stats-base-dists-t-quantile": "^0.1.0",
     "@stdlib/stats-incr-meanstdev": "^0.1.0",
     "@stdlib/stats-incr-minmax": "^0.1.0",
@@ -63,7 +63,7 @@
     "@stdlib/stats-incr-max": "^0.1.1",
     "@stdlib/stats-incr-mean": "^0.1.1",
     "@stdlib/stats-incr-min": "^0.1.1",
-    "@stdlib/stats-incr-stdev": "^0.1.0",
+    "@stdlib/stats-incr-stdev": "^0.1.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
