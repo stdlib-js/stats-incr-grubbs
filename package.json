@@ -53,12 +53,13 @@
     "@stdlib/stats-incr-minmax": "^0.2.1",
     "@stdlib/string-format": "^0.2.1",
     "@stdlib/utils-define-read-only-accessor": "^0.2.1",
-    "@stdlib/utils-define-read-only-property": "^0.2.1"
+    "@stdlib/utils-define-read-only-property": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-function": "^0.2.1",
     "@stdlib/datasets-herndon-venus-semidiameters": "^0.2.1",
-    "@stdlib/random-base-normal": "^0.2.0",
+    "@stdlib/random-base-normal": "^0.2.1",
     "@stdlib/stats-incr-max": "^0.2.1",
     "@stdlib/stats-incr-mean": "^0.2.1",
     "@stdlib/stats-incr-min": "^0.2.1",
