@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="v0.2.2">
+<section class="release" id="unreleased">
 
-## 0.2.2 (2024-07-29)
+## Unreleased (2024-08-01)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`4c5b60e`](https://github.com/stdlib-js/stdlib/commit/4c5b60e5137fac4f946d80d6b7055e8bd23b5d97) - **chore:** resolve lint errors and fix typos _(by Philipp Burckhardt)_
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
@@ -26,11 +26,21 @@
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Philipp Burckhardt
+-   Athan Reines
 
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.2">
+
+## 0.2.2 (2024-07-29)
+
+No changes reported for this release.
 
 </section>
 
@@ -50,31 +60,7 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="commits">
-
-### Commits
-
-<details>
-
--   [`dea49e0`](https://github.com/stdlib-js/stdlib/commit/dea49e03ab5571233e3da26835a6a6d3256d5737) - **docs:** use single quotes in require calls instead of backticks _(by Philipp Burckhardt)_
-
-</details>
-
-</section>
-
-<!-- /.commits -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
+No changes reported for this release.
 
 </section>
 
@@ -84,56 +70,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.1.0 (2023-09-24)
 
-<section class="features">
-
-### Features
-
--   [`59f242d`](https://github.com/stdlib-js/stdlib/commit/59f242dca2a991585787a7ab681e31dc37ab1d71) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-### BREAKING CHANGES
-
--   [`59f242d`](https://github.com/stdlib-js/stdlib/commit/59f242dca2a991585787a7ab681e31dc37ab1d71): update minimum TypeScript version
--   [`59f242d`](https://github.com/stdlib-js/stdlib/commit/59f242dca2a991585787a7ab681e31dc37ab1d71): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-<section class="commits">
-
-### Commits
-
-<details>
-
--   [`59f242d`](https://github.com/stdlib-js/stdlib/commit/59f242dca2a991585787a7ab681e31dc37ab1d71) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
--   [`43b454e`](https://github.com/stdlib-js/stdlib/commit/43b454ef52b9aba92242d95e05d82c3952715368) - **refactor:** avoid usage of utils/copy _(by Philipp Burckhardt)_
--   [`0887a54`](https://github.com/stdlib-js/stdlib/commit/0887a54a63143519fe76ffeee676a595dc8d92fa) - **docs:** render equations via math code blocks _(by Philipp Burckhardt)_
-
-</details>
-
-</section>
-
-<!-- /.commits -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
+No changes reported for this release.
 
 </section>
 
