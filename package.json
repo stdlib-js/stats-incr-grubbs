@@ -59,7 +59,7 @@
   "devDependencies": {
     "@stdlib/assert-is-function": "^0.2.3",
     "@stdlib/datasets-herndon-venus-semidiameters": "^0.2.3",
-    "@stdlib/random-base-normal": "^0.2.1",
+    "@stdlib/random-base-normal": "^0.2.2",
     "@stdlib/stats-incr-max": "^0.2.3",
     "@stdlib/stats-incr-mean": "^0.2.3",
     "@stdlib/stats-incr-min": "^0.2.3",
